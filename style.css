@@ -54,15 +54,17 @@ li{
     list-style: none;
     text-align: start;
     color: rgb(236, 187, 96);
+    border-left: 5px solid rgb(249, 202, 36) ;
+    padding-left: 5px;
    
 
 }
 
-li::before{
+/* li::before{
     content:"\258E";
     color:rgb(236, 187, 96);  
 }
-
+ */
 .p1{
     text-indent: 18px;
 
