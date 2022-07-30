@@ -90,3 +90,9 @@ li{
     background-color: rgb(206, 186, 106);
     color: black;
 }
+
+.border{
+    border-left:5px solid rgb(249, 202, 36) ;
+    padding-left: 5px;
+   
+}
